@@ -1,4 +1,4 @@
-# p13router1175
+# A2PROPIEDADES_CONTAINER1175
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -17,6 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Getting Started: FlutLab - Flutter Online IDE
+- https://medium.com/flutter-espa%C3%B1a/desaf%C3%ADos-con-flutter-container-38842d23e2b7
+- https://api.flutter.dev/flutter/material/Colors-class.html
 
 ## Links de referencia
 https://classroom.google.com/c/NjYyMDYzNDczODI5/a/NjY4NTI0Njk4Njc2/details
